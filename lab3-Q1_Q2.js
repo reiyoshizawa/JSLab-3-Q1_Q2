@@ -1,3 +1,5 @@
+// Rei Yoshizawa 12/2/2018
+
 ///////////// Q1a /////////////
 var arr = ['dog', 'cat', 'deer'];
 var result = arr[0] + arr[2];
